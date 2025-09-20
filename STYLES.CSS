@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+}
+
+section {
+    margin-bottom: 25px;
+    padding: 15px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+img, video, audio, canvas {
+    margin-top: 10px;
+    display: block;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+    background: #fff;
+}
+
+table th, table td {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+}
